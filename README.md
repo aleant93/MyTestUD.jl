@@ -1,9 +1,9 @@
 # MyTestUD.jl
 
 
-| **Documentation** | **Build Status** |
-|---------------|--------------|
-|[![][docs-stable-img]][docs-stable-url] <br/> [![][docs-latest-img]][docs-dev-url] | [![Build Status][travis-img]][travis-url]  [![Coverage Status][codecov-img]][codecov-url] <br/> Linux and macOS |
+| **Build Status** |
+|--------------|
+|[![Build Status][travis-img]][travis-url]  [![Coverage Status][codecov-img]][codecov-url] <br/> Linux and macOS |
 
 [travis-img]: https://travis-ci.org/aleant93/MyTestUD.jl.svg?branch=master
 [travis-url]: https://travis-ci.org/aleant93/MyTestUD.jl
